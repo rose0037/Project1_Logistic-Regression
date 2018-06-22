@@ -1,4 +1,4 @@
-# Project1_Logistic-Regression
+# Project: Logistic Regression
 ## Defination:
 Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome.The goal of logistic regression is to find the best fitting that describe the relationship between dependent variable and independent variable
 
